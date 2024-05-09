@@ -1,23 +1,6 @@
 [//]: # "https://github.com/fefong/markdown_readme#titles"
 
 # TypeScript Design Patterns And SOLID Principles
-
-Welcome to this one-of-a-kind course specifically designed to transform your
-TypeScript programming skills by diving deep into the world of **Gang Of Four
-Design Patterns**, **SOLID Design principles**, and **Object-Oriented
-Programming
-(OOP)** concepts. Are you an aspiring or intermediate programmer looking to
-level up your game? Or are you an advanced programmer and need a refresher
-on the Gang Of Four Design Patterns and SOLID Design Principles? Do you have a
-grasp of TypeScript and now want to focus on architectural excellence and code
-reusability? If so, you've come to the right place!
-
-# :sunny: Learn On Udemy
-
-> This repository contains all the design patterns which I teach in my Udemy
-> course. Check out the course on :point_right: [TypeScript Design Patters
-> and SOLID Principles](https://www.udemy.com/course/design-patterns-using-typescript/)
-
 # Navigate Repository Contents
 
 =============================
